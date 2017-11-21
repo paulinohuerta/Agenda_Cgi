@@ -18,3 +18,5 @@ Debemos de tener el cuenta que el fichero esta alojado en /tmp, una carpeta dond
 
 Si deseas hacerlo completamente permanente, tendras que crear previamente un fichero con permiso de escritura para todos los usuarios.
 
+ * Sería interesante tener una estructura de registros y campos en el fichero usado para persistencia, que facilite a otros programas lo obtención de los mismos.
+
